@@ -7,7 +7,7 @@ Projeto desenvolvido no desafio **Data Analytics com Power BI** (DIO). O objetiv
 | Página | Conteúdo |
 |---|---|
 | **Home page** | Capa da turma |
-| **Principal (Sales Report)** | Visão geral: cartões de KPI (vendas, unidades, descontos, lucro, custo), vendas por período, vendas por segmento (rosquinha/barras), vendas por produto e mapa/treemap por país, com filtro de data |
+| **Principal (Sales Report)** | Visão geral: cartões de KPI (vendas, unidades, descontos, lucro, custo), vendas por período, vendas por segmento (rosquinha/barras), vendas por produto e mapa por país, com filtro de data |
 | **Detalhes** | Vendas por mês e por semestre (alternados por botões), matriz de vendas por trimestre e ano, histograma de unidades vendidas e unidades por produto |
 | **Análises** | Top 3 produtos, vendas por país comparadas a uma meta e dispersão de unidades vendidas x vendas por mês |
 
